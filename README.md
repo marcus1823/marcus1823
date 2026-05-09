@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30,24&height=220&section=header&text=Marcus&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2B%20AI%20Engineer%20%E2%9A%A1%20Hanoi%2C%20Vietnam&descSize=18&descAlignY=60" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30,24&height=220&section=header&text=Marcus&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%86%92%20AI%20Specialist%20%E2%9A%A1%20Hanoi%20%E2%87%84%20Ho%20Chi%20Minh%20City&descSize=16&descAlignY=60" alt="header banner"/>
 
 <a href="https://github.com/marcus1823">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+Mobile+apps+with+React+Native;%3E+Backends+with+Node%2C+Python%2C+Go;%3E+AI+agents+with+LLMs+%26+RAG;%3E+Caffeine+%E2%86%92+code+compiler" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+Mobile+%E2%80%A2+Fullstack+%E2%80%A2+AI+Agent;%3E+Idea+%2B+Problem+%E2%86%92+Product;%3E+Building+agentic+systems+with+LLMs;%3E+Caffeine+%E2%86%92+code+compiler" alt="typing"/>
 </a>
 
 <p>
@@ -24,10 +24,17 @@
 $ cat marcus.profile
 
   ▸ Truong Minh Tien (Marcus)
-  ▸ Final-year CS Student @ FPT University
-  ▸ Builds: mobile apps · backends · AI agents
-  ▸ Stack-curious. Ship-first. Coffee-fueled.
-  ▸ Location: Hanoi, Vietnam 🇻🇳
+  ▸ Software Engineer  →  evolving into AI Specialist
+  ▸ B.Eng Software Engineering @ FPT University   ✓ graduated
+  ▸ AI Specialist Program     @ VinUniversity     ⟳ in progress
+  ▸ Builds: Mobile · Fullstack · AI Agents
+  ▸ Location: Hanoi  ⇄  Ho Chi Minh City, Vietnam 🇻🇳
+
+$ ./philosophy
+
+  > Idea + Problem  →  Product.
+  > Anything in daily life worth fixing,
+  > I'll turn it into something people can use.
 
 $ ./now
 
@@ -104,37 +111,87 @@ $ ./now
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/marcus1823/OhBau_App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcus1823&repo=OhBau_App&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/NewMWay/NewMWay_App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NewMWay&repo=NewMWay_App&theme=tokyonight&hide_border=true" />
-</a>
+<td colspan="2" valign="top">
+
+### 🐠 <a href="https://github.com/SEP490-AquaShop">AquaShop — Aquarium E-commerce Ecosystem</a>
+<b>🎓 Capstone graduation project · SEP490 @ FPT University</b> · team-built multi-platform commerce system for aquarium products.<br/>
+<b>My contribution:</b> all three mobile clients — built end-to-end on React Native with realtime updates over STOMP WebSocket.
+
+🔗 My apps:
+<a href="https://github.com/SEP490-AquaShop/AquaShop-App">📱 Customer App</a> ·
+<a href="https://github.com/SEP490-AquaShop/AquaShop-POS">🧾 POS</a> ·
+<a href="https://github.com/SEP490-AquaShop/AquaShop-Shipper">🚚 Shipper</a>
+
+<p>
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-STOMP%20WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Google%20Sign--In-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Lottie-00DDB3?style=flat-square&logo=airbnb&logoColor=white"/>
+</p>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/BrightLab-EXE/BrightLabFE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BrightLab-EXE&repo=BrightLabFE&theme=tokyonight&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+### 🍼 <a href="https://github.com/marcus1823/OhBau_App">OhBau_App</a>
+Pregnancy & maternity companion — daily tracking, tips, reminders for expecting parents.
+
+<p>
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+</p>
+
 </td>
-<td width="50%">
-<a href="https://github.com/a20-ai-thuc-chien/A20-App-146">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=a20-ai-thuc-chien&repo=A20-App-146&theme=tokyonight&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+### ⚡ <a href="https://github.com/NewMWay/NewMWay_App">NewMWay</a>
+Production mobile app with realtime updates + push notifications + Google auth.
+
+<p>
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-SignalR-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Notifee-FF5722?style=flat-square&logo=googlecloud&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 <a href="https://github.com/BrightLab-EXE/BrightLabFE">BrightLab</a>
+EXE capstone — mobile frontend with rich Lottie animations and smooth UX.
+
+<p>
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Lottie-00DDB3?style=flat-square&logo=airbnb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 <a href="https://github.com/a20-ai-thuc-chien/A20-App-146">ARC — Agent for Research Coordination</a>
+Tool-using AI agent that coordinates research workflows — autonomous loop with LLM tool calling. Built in <i>A20 AI thực chiến</i>.
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Agent%20Loop-D4A27F?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tool%20Calling-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+</p>
+
 </td>
 </tr>
 </table>
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[OhBau_App](https://github.com/marcus1823/OhBau_App)** | Pregnancy & maternity companion mobile app | React Native · Redux Toolkit · React Query · Axios |
-| **[NewMWay](https://github.com/NewMWay/NewMWay_App)** | Production mobile app with realtime + push notifications | RN · Firebase · SignalR · Notifee · Google Sign-In |
-| **[BrightLab](https://github.com/BrightLab-EXE/BrightLabFE)** | EXE capstone — mobile frontend with rich animations | RN · Redux Toolkit · Lottie · Axios |
-| **[ARC (A20)](https://github.com/a20-ai-thuc-chien/A20-App-146)** | Tool-using AI agent — built in *A20 AI thực chiến* | Python · Agent loop · LLM tool calling |
 
 ## `>` stats
 
