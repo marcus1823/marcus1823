@@ -166,14 +166,15 @@ Production mobile app with realtime updates + push notifications + Google auth.
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/BrightLab-EXE/BrightLabFE">BrightLab</a>
-EXE capstone — mobile frontend with rich Lottie animations and smooth UX.
+### 🏠 <a href="https://github.com/BrightLab-EXE/BrightLabFE">BrightNest</a>
+EXE startup project by team <b>BrightLab</b> — modern apartment rental platform connecting urban young renters with landlords. Powered by AI matching and 360° virtual tours for a transparent end-to-end renting experience.
 
 <p>
 <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-AI%20Matching-A855F7?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-360%C2%B0%20Virtual%20Tour-FF6B6B?style=flat-square&logo=googlestreetview&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Lottie-00DDB3?style=flat-square&logo=airbnb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
 </p>
 
 </td>
@@ -196,8 +197,9 @@ Tool-using AI agent that coordinates research workflows — autonomous loop with
 ## `>` stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcus1823&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus1823&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://img.shields.io/github/followers/marcus1823?style=for-the-badge&label=Followers&color=A855F7&logo=github&logoColor=white" alt="followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmarcus1823&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=FF1493&logo=github&logoColor=white" alt="repos"/>
+  <img src="https://img.shields.io/github/last-commit/marcus1823/marcus1823?style=for-the-badge&label=Last%20push&color=00D9FF&logo=git&logoColor=white" alt="last commit"/>
 </p>
 
 <p>
