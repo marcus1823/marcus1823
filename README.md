@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30,24&height=220&section=header&text=Marcus&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%86%92%20AI%20Specialist%20%E2%9A%A1%20Hanoi%20%E2%87%84%20Ho%20Chi%20Minh%20City&descSize=16&descAlignY=60" alt="header banner"/>
 
 <a href="https://github.com/marcus1823">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+Mobile+%E2%80%A2+Fullstack+%E2%80%A2+AI+Agent;%3E+Idea+%2B+Problem+%E2%86%92+Product;%3E+Building+agentic+systems+with+LLMs;%3E+Caffeine+%E2%86%92+code+compiler" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+AI+Engineer+%E2%80%A2+LLM+%E2%80%A2+Agents;%3E+Fine-tuning+%E2%80%A2+RAG+%E2%80%A2+Tool-calling;%3E+Idea+%2B+Problem+%E2%86%92+Product;%3E+Also+ships+Mobile+%E2%80%A2+Fullstack" alt="typing"/>
 </a>
 
 <p>
@@ -27,7 +27,7 @@ $ cat marcus.profile
   ▸ Software Engineer  →  evolving into AI Specialist
   ▸ B.Eng Software Engineering @ FPT University   ✓ graduated
   ▸ AI Specialist Program     @ VinUniversity     ⟳ in progress
-  ▸ Builds: Mobile · Fullstack · AI Agents
+  ▸ Builds: AI Agents · LLM fine-tuning · Fullstack · Mobile
   ▸ Location: Hanoi  ⇄  Ho Chi Minh City, Vietnam 🇻🇳
 
 $ ./philosophy
@@ -87,6 +87,14 @@ $ ./now
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge&logo=databricks&logoColor=white)
+![LoRA Fine-tuning](https://img.shields.io/badge/LoRA_Fine--tuning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Llama-Factory](https://img.shields.io/badge/Llama--Factory-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-302E7D?style=for-the-badge&logo=v&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=c&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00BFA5?style=for-the-badge&logo=litecoin&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -104,10 +112,78 @@ $ ./now
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## `>` featured
+## `>` featured · AI / ML
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🚗 <a href="https://huggingface.co/marcuschill1823/incar-nlu-qwen1.5b-v31">In-Car NLU — On-Device Voice Intent Engine</a>
+<b>🔬 LLM fine-tuning · VinSmart Future</b> · on-device Vietnamese voice assistant that rewrites raw ASR commands into clean intents and routes them <i>offline</i> (car action) vs <i>online</i> (knowledge / chitchat).<br/>
+<b>What I built:</b> a 1k+ sample held-out gold benchmark (14 intents · ASR noise · anaphora · 3 dialects) + automated validator · a Teacher + Judge synthetic-data pipeline curated to ~42.5k rows (0 test leakage) · a weakness-fix iteration loop (v1 → v3.1) · int4 GGUF on-device serving.<br/>
+<b>Results (sealed held-out 401):</b> rewrite exact-match <b>2.4% → ~41% (≈17×)</b> · domain accuracy <b>94%</b> · JSON validity <b>100%</b> · passthrough precision <b>1.0</b>.
+
+🔗 <a href="https://huggingface.co/marcuschill1823/incar-nlu-qwen1.5b-v31">🤗 Model on HuggingFace</a>
+
+<p>
+<img src="https://img.shields.io/badge/-Qwen2.5--1.5B-615CED?style=flat-square&logo=alibabadotcom&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LoRA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Llama--Factory-FF6F00?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/-vLLM-302E7D?style=flat-square&logo=v&logoColor=white"/>
+<img src="https://img.shields.io/badge/-llama.cpp%20%2F%20GGUF-000000?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kaggle%202%C3%97T4-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 Research-Agent — Model-Improvement Flywheel
+<b>⚙️ AI infra · VinSmart Future · in progress</b><br/>
+A model-agnostic engine that improves any model in a closed loop — plug a model in via a 4-button adapter (<code>predict / validate / generate / judge</code>), <b>no core-code changes</b>. Walking-skeleton runs all <b>8 pipeline stages + 5 human-in-the-loop gates</b> end-to-end with a two-tier data contract & run registries for reproducibility (<b>38 passing tests</b>).
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LiteLLM-00BFA5?style=flat-square&logo=litecoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LoRA%20%2F%20Llama--Factory-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</p>
+
+<sub>🔒 Private repo · VSF Intern</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 <a href="https://arclabs.io.vn">ARC — Agents for Research Coordination</a>
+<b>🧪 Backend & AI · VinUniversity · <a href="https://arclabs.io.vn">live</a></b><br/>
+A PM tool for research labs whose <b>nightly Synthesis Agent</b> turns daily activity into a living wiki — so a lab's knowledge survives when students leave. <b>My scope:</b> backend domains with PostgreSQL Row-Level Security + tests, the agent tool layer (REST APIs wrapped as LLM-callable tools), and production deployment.
+
+<p>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Supabase%20RLS-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+
+🔗 <a href="https://arclabs.io.vn">🌐 Live</a> · <a href="https://github.com/a20-ai-thuc-chien/A20-App-146">Repo</a>
+
+</td>
+</tr>
+</table>
+
+## `>` featured · Mobile
 
 <table>
 <tr>
@@ -164,7 +240,7 @@ Production mobile app with realtime updates + push notifications + Google auth.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🏠 <a href="https://github.com/BrightLab-EXE/BrightLabFE">BrightNest</a>
 EXE startup project by team <b>BrightLab</b> — modern apartment rental platform connecting urban young renters with landlords. Powered by AI matching and 360° virtual tours for a transparent end-to-end renting experience.
@@ -175,19 +251,6 @@ EXE startup project by team <b>BrightLab</b> — modern apartment rental platfor
 <img src="https://img.shields.io/badge/-360%C2%B0%20Virtual%20Tour-FF6B6B?style=flat-square&logo=googlestreetview&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Lottie-00DDB3?style=flat-square&logo=airbnb&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 <a href="https://github.com/a20-ai-thuc-chien/A20-App-146">ARC — Agent for Research Coordination</a>
-Tool-using AI agent that coordinates research workflows — autonomous loop with LLM tool calling. Built in <i>A20 AI thực chiến</i>.
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Agent%20Loop-D4A27F?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tool%20Calling-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
 </td>
